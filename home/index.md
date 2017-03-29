@@ -6,3 +6,4 @@ A bit of testing...
  - apples 
  - pears 
  - oranges
+ - strawberries
